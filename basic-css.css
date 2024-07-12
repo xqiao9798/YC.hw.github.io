@@ -1,0 +1,7 @@
+@font-face { font-family: 'YC'; src: url('font/LXGWWenKaiMonoTC-Regular.ttf'); }
+a { text-decoration: none; color: #291b09; }
+body { background-color: #a0d4ff; margin: 0%; font-family: 'YC'; user-select: none; -webkit-user-select: none; -moz-user-select: none; overflow-x: auto; overflow-y: auto; }
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar:hover { width: 7px; height: 7px; }
+font { font-family: 'YC'; color: #2d5a9e; }
+.body { display: flex; justify-content: center; align-items: center; }
